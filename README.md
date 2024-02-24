@@ -1,4 +1,4 @@
-# Resources-for-DSA
+# Resources for Data Structures and Algorithms, Competitive Programming from Beginner to Advanced
 
 ## Languages:
 - [C](https://www.tutorialspoint.com/cprogramming/index.htm)  
