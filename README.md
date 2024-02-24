@@ -99,7 +99,6 @@
 - [Vivekanand Khyade](https://www.youtube.com/@vivekanandkhyade/playlists)
 - [BacktoBack SWE](https://www.youtube.com/@BackToBackSWE/playlists)
 - [Tech Dose](https://www.youtube.com/@techdose4u/playlists)
-- 
 
 
  ## Websites for practice
