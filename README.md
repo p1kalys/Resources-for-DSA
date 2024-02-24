@@ -202,3 +202,6 @@
 * [Dfs Tree](https://codeforces.com/blog/entry/68138)
 * [CP Templates](https://github.com/ACodeDaily/CP-resources)
 
+
+
+### Star🌟 the repo if you like it, share to your friends.
